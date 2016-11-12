@@ -11,6 +11,7 @@ import android.os.Bundle;
 public class MyLocationListener implements LocationListener {
     @Override
     public void onLocationChanged(Location loc) {
+
     }
 
     @Override
