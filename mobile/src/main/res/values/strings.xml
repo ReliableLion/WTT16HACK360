@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">WTT 2016</string>
     <!-- Sensors messages -->
     <string name="user_fallen">User has fallen</string>
     <string name="heart_attack">Heart attack detected</string>

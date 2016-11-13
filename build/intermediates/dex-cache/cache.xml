@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.8.0_8e678df6fded52c4197853bef71a656bd07fe746/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c83da99378f90bc267710efbaddcc37c12bb5df">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4eb266f3e249d4e4bd7f13cd3edba23938823388/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_e8ddcb423183d677712e51a1b2979101e318daab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_c1473d36395f0b6f604c71caa73ac45e41987da6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.8.0_4e0170d2487a20e70e2fc181859f5c05a6e95da6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_99b6747b28648599ee55ba24b36dbaa2ef74122e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_654dd52c22a94a50f1234b1bb3e9d2c6ed5d1b49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_c722c58033c12e6daf0cc92983ed16be1f22f268/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d19d6458092aeeefd12b002303c24487c603dc39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.8.0_28986a074ebd870a35cfaa2d571e4080e9d6cf8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_b18ffe6137e5ed08a265e8f2bafc4379bb89e974/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b80e13dc4676b05976edee044d3446b91b7ae80">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ef1ba5175eafe79152559f57ef874d7716f14934/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_c94f249e0a3bd1b0dbe8fd86cd571cdb492dc192/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_3ad822bc4185fd69e61c83fc3277c6e47fa1a64e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_7f600ef1cced0e6df4e6646cd8b1aefe93035202/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_7512ec58a1c88d5fb7b66abe6885dc123826797a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_fc1d0572ac4c70b65393940fdd7bd0135322ed8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.8.0_7ad4ad5eccab2b65cb0e8a8327837a222497b1ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.8.0_d77bfcc528095b2418bf791c0ab6f9bc69e4065a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_2b81a5f29f6252cb45335091c5150ca5e93fc779/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.8.0_e6c793633e61389f41ac66940e657a5b48d49313/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_c90e9bffda17521114407a7db98840abc3d62e7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.8.0_fa3c840fc624c65b49d838b592f60f670042768c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_37dc02178b1e267950609396c20ce48b3b8f7e88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.8.0_cf146e44ec7401418e53463f40de63ddcfa65ba3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_d470eaaadc2bc958dbb2bae5308d4b22d1e4d459/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_a442e20604df69a443b5506472befa30d1e53db9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.8.0_b4f1de57812f7f5dfb10cf852bf4544c4e862ff6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.8.0_7c99afcb4ffb40131b6b2f99045029e77af4853c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_04c8c10a64957670015fb6991181c6c6a8fc9674/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.8.0_1825dc5e6f9ae3f3d13e3245b1a5c507d81d10e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_38a3fa00a976f3ec7dc131028b6fadce31942753/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_8e0753660b76130107cfcbde3616f9eff6e3b395/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.8.0_ed044b0df0044e0f586351cb64ab2c66a83fddd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.8.0_fdf06df167b78dcbf9ab1d7d417b02cd5ace4e5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.8.0_90de0aaa7d326db024bf558131bb8ab697c5b8ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_e1b04a17fc034aef165a29a0191fa483503b1ca7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.8.0_09f44e3cca5965fd5c0ba6f801a5f89f8713a142/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.8.0_523e97c05f307c566644d8e9ea309b65b94fc09a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.8.0_d8ee2a8afbca601ddf2d95ec502b75730efe48fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.8.0_b24a06ae8f8ae1c50cf5f3af978c1c563d1e5e8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_ff0135269908230b43f9f33368ee41200802cabb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_5fc43d35e7d652dcbbbccdfc68b37ea4d3fb769c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.8.0_a997e09f31e3c3d37f850e2e1047984764565c54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_1513dba3506ec0dbecfa2b1586452ad1f8cc5ed1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_6497636e60c54cae9afcfbd744fb895306d72f49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_630e465da0838186099f41b1006a5d9a848f3218/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.8.0_c3185cc589e5cbab1014ba9aaa7f6bd9a6916c94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_08ef7d9c60ecebb2452881d90351566bd82edc9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_2b002650ae733a9b2b9e099deb7cdc5c00f1ba47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.8.0_0695f2da8fd407953ef56e36deccef047befce87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.8.0_72845283405b025fb696ef3bfa77ce5592440914/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.8.0_0ebc7f51c20973b6bdf5449fe2d378755666e2de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.8.0_97cf2d8b4282b9c7c8cfc67c3acdc71303f0031a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_881317f68f1ce25d2a833feeaefc79f4f8d09f2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.8.0_2b53f559e284109cd9e9f41adfbf17714a25863d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_35a100a18b37efa4c1a42183b6384aaec503775a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.8.0_d6b9f3497dddf42f26a716184b45cf92a7cf1a8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_f24eeaa5bac26bf13f24332cb4064c2553014933/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.8.0_2cc45220e28c768daca60f250d0baab3d8513c02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_a28ed4a89e12df8d213edafa5fb5d106f2758de8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_c76d9523d19b21f2a15b8f1d8b86b0543087427a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_ef44a708d73d455807ec441ac790e75e8f5d86f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_9f36b812010e2f4207f6bcdb9da2d8efb5b54f75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.8.0_f163a9234d6177f9291b6efbce1ef26976388cf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_a6b92ea75974c6af369c7679fb6b559574ee94a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_0ddfc9ee1bf302cd56b6b9ba64eb95dcbbb844e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_c417f5d876edc88c231220c0e3f2bdfa7ee36c4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_a04f8154064ae4db9417328f6b2523f450bd7291/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_1d215b8cb84b9c5cce82ecaae09e381424ea1df4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.8.0_1df262a06d4facc135de0804c779966a6ed4d59b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/alessandromorelli/AndroidStudioProjects/WTT16hackathonMOTO360/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.8.0_13400b4c4740dc79d0397f0e37e76061df154c60/classes.dex" />
+    </item>
+
+</items>
