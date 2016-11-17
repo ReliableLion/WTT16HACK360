@@ -8,6 +8,7 @@ import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.os.Bundle;
 
+import com.example.matti.myapplication.Utils;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.common.api.ResultCallback;
 import com.google.android.gms.wearable.CapabilityApi;
@@ -29,7 +30,7 @@ public class SensingService extends IntentService implements GoogleApiClient.Con
             float rate = sensorEvent.values[0];
 
             // Send information to the connected node
-            requestSensing(wtt.wtt16hack.Utils.floatToByte(rate), heartRateNodeId, HEART_RATE_SENSING_CAPABILITY);
+            requestSensing(Utils.floatToByte(rate), heartRateNodeId, HEART_RATE_SENSING_CAPABILITY);
         }
 
         @Override
@@ -49,9 +50,9 @@ public class SensingService extends IntentService implements GoogleApiClient.Con
             float accZ = sensorEvent.values[2];
 
             // Send information to the connected node
-            byte[] x = wtt.wtt16hack.Utils.floatToByte(accX);
-            byte[] y = wtt.wtt16hack.Utils.floatToByte(accY);
-            byte[] z = wtt.wtt16hack.Utils.floatToByte(accZ);
+            byte[] x = Utils.floatToByte(accX);
+            byte[] y = Utils.floatToByte(accY);
+            byte[] z = Utils.floatToByte(accZ);
 
             byte[] payload = new byte[3*x.length];
 

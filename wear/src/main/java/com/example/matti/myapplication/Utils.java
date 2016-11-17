@@ -1,4 +1,4 @@
-package wtt.wtt16hack;
+package com.example.matti.myapplication;
 
 /**
  * Created by mario on 12/11/16.
